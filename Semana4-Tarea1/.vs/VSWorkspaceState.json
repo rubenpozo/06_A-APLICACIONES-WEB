@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EncuestasApp",
+    "\\EncuestasApp\\Controllers",
+    "\\EncuestasApp\\Models",
+    "\\EncuestasApp\\Views",
+    "\\EncuestasApp\\Views\\Encuestas",
+    "\\EncuestasApp\\Views\\Shared"
+  ],
+  "SelectedNode": "\\EncuestasApp\\Models\\OpcionesRespuestum.cs",
+  "PreviewInSolutionExplorer": false
+}
