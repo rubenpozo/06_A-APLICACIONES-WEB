@@ -1,0 +1,32 @@
+<div class="container mt-4">
+<h2 class="mb-4">Lista de Clientes</h2>
+
+<table class="table table-striped table-hover table-bordered">
+  <thead class="table-dark">
+    <tr>
+      <th>Nombre</th>
+      <th>Apellido</th>
+      <th>Cédula</th>
+      <th>Ciudad</th>
+      <th>Teléfono</th>
+      <th>Acciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    @for (cliente of clientes(); track cliente.id) {
+      <tr>
+        <td>{{ cliente.nombre }}</td>
+        <td>{{ cliente.apellido }}</td>
+        <td>{{ cliente.cedula }}</td>
+        <td>{{ cliente.ciudad }}</td>
+        <td>{{ cliente.telefono }}</td>
+        <td>
+          <button class="btn btn-danger btn-sm" (click)="eliminar(cliente.id)">
+            Eliminar
+          </button>
+        </td>
+      </tr>
+    }
+  </tbody>
+</table>
+</div>

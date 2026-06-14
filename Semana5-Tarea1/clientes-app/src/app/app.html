@@ -1,0 +1,17 @@
+<h1>{{ title() }}</h1>
+
+<nav>
+  <ul>
+    @for (link of [
+      { path: '/clientes', label: 'Lista de Clientes' },
+      { path: '/nuevo', label: 'Nuevo Cliente' }
+    ]; track link.path) {
+      <li><a [routerLink]="link.path">{{ link.label }}</a></li>
+    }
+  </ul>
+</nav>
+
+<hr>
+
+<!-- Aquí se renderizan las rutas -->
+<router-outlet></router-outlet>
