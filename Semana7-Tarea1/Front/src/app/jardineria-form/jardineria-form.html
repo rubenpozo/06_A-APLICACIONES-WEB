@@ -1,0 +1,48 @@
+<div class="container mt-4">
+  <h2 class="mb-4 text-primary">Formulario Jardinería</h2>
+
+  <form (ngSubmit)="registrar()" class="row g-3">
+    <div class="col-md-4">
+      <label class="form-label">Planta</label>
+      <input [(ngModel)]="nuevo.planta" name="planta" class="form-control" required />
+    </div>
+
+    <div class="col-md-4">
+      <label class="form-label">Tipo</label>
+      <input [(ngModel)]="nuevo.tipo" name="tipo" class="form-control" required />
+    </div>
+
+    <div class="col-md-4">
+      <label class="form-label">Fecha Siembra</label>
+      <input [(ngModel)]="nuevo.fechaSiembra" name="fechaSiembra" type="date" class="form-control" required />
+    </div>
+
+    <div class="col-12">
+      <button type="submit" class="btn btn-success">Registrar</button>
+    </div>
+  </form>
+
+  <hr class="my-4" />
+
+  <h3 class="mb-3">Registros</h3>
+  <table class="table table-striped table-hover table-bordered">
+    <thead class="table-dark">
+      <tr>
+        <th>ID</th>
+        <th>Planta</th>
+        <th>Tipo</th>
+        <th>Fecha Siembra</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let r of registros">
+        <td>{{r.id}}</td>
+        <td>{{r.planta}}</td>
+        <td>{{r.tipo}}</td>
+        <td>{{r.fechaSiembra}}</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <button (click)="generarPDF()" class="btn btn-primary mt-3">Generar PDF</button>
+</div>
