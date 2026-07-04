@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\controllers\\entrenadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:controllers\\entrenadorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\controllers\\miembroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:controllers\\miembroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\models\\miembrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:models\\miembrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\models\\entrenadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:models\\entrenadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|c:\\users\\hp\\source\\repos\\api_entrenador\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D09E2A-8856-43C9-830C-D4C05D1CEEC1}|API_Entrenador.csproj|solutionrelative:models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiembroDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Models\\MiembroDto.cs",
+              "RelativeDocumentMoniker": "Models\\MiembroDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Models\\MiembroDto.cs",
+              "RelativeToolTip": "Models\\MiembroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T04:23:19.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EntrenadorDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Models\\EntrenadorDto.cs",
+              "RelativeDocumentMoniker": "Models\\EntrenadorDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Models\\EntrenadorDto.cs",
+              "RelativeToolTip": "Models\\EntrenadorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T04:23:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T04:04:14.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiembrosController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Controllers\\MiembrosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MiembrosController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Controllers\\MiembrosController.cs",
+              "RelativeToolTip": "Controllers\\MiembrosController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T03:48:47.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntrenadoresController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Controllers\\EntrenadoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EntrenadoresController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Controllers\\EntrenadoresController.cs*",
+              "RelativeToolTip": "Controllers\\EntrenadoresController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T03:46:08.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-04T03:44:59.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T03:36:14.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Models\\Miembro.cs",
+              "RelativeDocumentMoniker": "Models\\Miembro.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\API_Entrenador\\Models\\Miembro.cs",
+              "RelativeToolTip": "Models\\Miembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T03:35:09.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

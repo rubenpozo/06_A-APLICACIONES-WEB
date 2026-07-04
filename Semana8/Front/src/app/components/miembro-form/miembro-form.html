@@ -1,0 +1,30 @@
+<!-- src/app/components/miembro-form/miembro-form.component.html -->
+<div class="container mt-3">
+  <h2>Nuevo Miembro</h2>
+
+  <form [formGroup]="miembroForm" (ngSubmit)="onSubmit()" class="p-3 border rounded">
+    <div class="mb-3">
+      <label for="nombreMiembro" class="form-label">Nombre del Miembro</label>
+      <input id="nombreMiembro" type="text" class="form-control" formControlName="nombre" placeholder="Ej: Carlos">
+    </div>
+
+    <div class="mb-3">
+      <label for="apellidoMiembro" class="form-label">Apellido del Miembro</label>
+      <input id="apellidoMiembro" type="text" class="form-control" formControlName="apellido" placeholder="Ej: Ramírez">
+    </div>
+
+    <div class="mb-3">
+      <label for="entrenadorSelect" class="form-label">Entrenador</label>
+      <select id="entrenadorSelect" class="form-select" formControlName="entrenadorId">
+        <option value="" disabled selected>Seleccione un entrenador</option>
+        @for (e of entrenadores; track e.entrenadorId) {
+          <option [value]="e.entrenadorId">{{ e.nombre }} - {{ e.especialidad }}</option>
+        }
+      </select>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-3" [disabled]="miembroForm.invalid">
+      Guardar Miembro
+    </button>
+  </form>
+</div>

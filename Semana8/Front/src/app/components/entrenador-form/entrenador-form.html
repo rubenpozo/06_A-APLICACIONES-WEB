@@ -1,0 +1,22 @@
+<div class="card shadow-sm">
+  <div class="card-header bg-success text-white">
+    Nuevo Entrenador
+  </div>
+  <div class="card-body">
+    <form [formGroup]="entrenadorForm" (ngSubmit)="onSubmit()">
+      <div class="mb-3">
+        <label for="nombreEntrenador" class="form-label">Nombre</label>
+        <input id="nombreEntrenador" type="text" class="form-control" formControlName="nombre" placeholder="Ej: Ana López">
+      </div>
+
+      <div class="mb-3">
+        <label for="especialidadEntrenador" class="form-label">Especialidad</label>
+        <input id="especialidadEntrenador" type="text" class="form-control" formControlName="especialidad" placeholder="Ej: Yoga, Pesas, Cardio">
+      </div>
+
+      <button type="submit" class="btn btn-success" [disabled]="entrenadorForm.invalid">
+        Guardar Entrenador
+      </button>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+<div class="card shadow-sm">
+  <div class="card-header bg-primary text-white">
+    Lista de Miembros
+  </div>
+  <div class="card-body">
+    <table class="table table-striped table-hover">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Apellido</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (m of miembros; track m.miembroId) {
+          <tr>
+            <td>{{ m.nombre }}</td>
+            <td>{{ m.apellido }}</td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+</div>
