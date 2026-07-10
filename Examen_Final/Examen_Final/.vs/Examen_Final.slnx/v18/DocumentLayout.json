@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Examen_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:controllers\\pagocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:controllers\\habitacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\views\\habitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:views\\habitacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:views\\reserva\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\views\\habitacion\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:views\\habitacion\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\views\\pago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:views\\pago\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\HabitacionesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\HabitacionesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\PagosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\PagosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\ReservasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\ReservasController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|c:\\users\\hp\\source\\repos\\examen_final\\data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7D257FB-A3E6-4B7D-8554-28EEA10AC85C}|Examen_Final.csproj|solutionrelative:data\\hoteldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAG4iAAAAAAAAAAAvwJIiAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-10T00:54:22.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HabitacionController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\HabitacionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitacionController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\HabitacionController.cs",
+              "RelativeToolTip": "Controllers\\HabitacionController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowD8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T01:23:10.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Reserva\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reserva\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Reserva\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reserva\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAcwEEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T01:18:31.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Habitacion\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitacion\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Habitacion\\Create.cshtml",
+              "RelativeToolTip": "Views\\Habitacion\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T01:27:31.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "Controllers\\ReservaController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswJMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T01:22:52.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagoController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\PagoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagoController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\PagoController.cs",
+              "RelativeToolTip": "Controllers\\PagoController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv5MAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T04:06:20.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Models\\Habitacion.cs",
+              "RelativeDocumentMoniker": "Models\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Models\\Habitacion.cs",
+              "RelativeToolTip": "Models\\Habitacion.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T00:11:55.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAMwHkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T00:27:28.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Habitacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Habitacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Habitacion\\Index.cshtml",
+              "RelativeToolTip": "Views\\Habitacion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T01:17:14.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Pago\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pago\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Pago\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pago\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T01:18:13.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T00:16:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T00:55:59.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T00:33:28.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T01:01:10.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HabitacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\HabitacionesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HabitacionesController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\HabitacionesController.cs",
+              "RelativeToolTip": "Controllers\\HabitacionesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T00:24:44.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-10T01:09:03.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-10T00:02:29.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T00:46:36.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservasController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\ReservasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservasController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\ReservasController.cs",
+              "RelativeToolTip": "Controllers\\ReservasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T00:30:09.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T00:31:49.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HotelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Data\\HotelDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\HotelDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Examen_Final\\Data\\HotelDbContext.cs",
+              "RelativeToolTip": "Data\\HotelDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA3wAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T00:14:14.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
